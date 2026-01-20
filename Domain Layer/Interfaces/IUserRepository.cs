@@ -10,7 +10,7 @@ namespace Domain_Layer.Interfaces
 {
     public interface IUserRepository : IGenericRepository<User>
     {
-        public string GetUserNameById(int id);
-        public string GetRoleByUserId(int id);
+        public string? GetUserNameById(int id);
+        public string? GetRoleByUserId(int id);
     }
 }
