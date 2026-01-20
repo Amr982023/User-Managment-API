@@ -3,32 +3,104 @@
   "WorkspaceRootPath": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\domain layer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\repositories\\jwt\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\repositories\\jwt\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\user managment api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|solutionrelative:user managment api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\usermanagmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\usermanagmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\repositories\\jwt\\jwtserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\repositories\\jwt\\jwtserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\interfaces\\security\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\interfaces\\security\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\user managment api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|solutionrelative:user managment api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\repositories\\uow\\uow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\repositories\\uow\\uow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\domain layer\\interfaces\\igeneric\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\interfaces\\igeneric\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\domain layer\\interfaces\\iuow\\iuow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\interfaces\\iuow\\iuow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\repositories\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\repositories\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\domain layer\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\domain layer\\dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\domain layer\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\repositories\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\repositories\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\interfaces\\security\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\interfaces\\security\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\dependencyinjection\\infrastructureservicescollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\dependencyinjection\\infrastructureservicescollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\user managment api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|solutionrelative:user managment api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\configurations\\userconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\configurations\\userconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\infrastructure layer\\usermanagmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4819BA46-DF78-4317-8605-B6FAB462F453}|Infrastructure Layer\\Infrastructure Layer.csproj|solutionrelative:infrastructure layer\\usermanagmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,45 +110,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Domain Layer\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Domain Layer\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "JwtServiceRegisteration.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\JWT\\JwtServiceRegisteration.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Repositories\\JWT\\JwtServiceRegisteration.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\JWT\\JwtServiceRegisteration.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Repositories\\JWT\\JwtServiceRegisteration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T12:21:44.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\GenericRepository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure Layer\\Repositories\\GenericRepository\\GenericRepository.cs",
-              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\GenericRepository\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure Layer\\Repositories\\GenericRepository\\GenericRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T12:25:18.175Z",
+              "WhenOpened": "2026-01-20T15:41:04.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure Layer\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Infrastructure Layer\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Options\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Application Layer\\Options\\JwtOptions.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Options\\JwtOptions.cs",
+              "RelativeToolTip": "Application Layer\\Options\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T12:18:54.759Z",
+              "WhenOpened": "2026-01-20T15:10:17.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\JWT\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Repositories\\JWT\\TokenGenerator.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\JWT\\TokenGenerator.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Repositories\\JWT\\TokenGenerator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:07:02.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITokenGenerator.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Interfaces\\Security\\ITokenGenerator.cs",
+              "RelativeDocumentMoniker": "Application Layer\\Interfaces\\Security\\ITokenGenerator.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Interfaces\\Security\\ITokenGenerator.cs",
+              "RelativeToolTip": "Application Layer\\Interfaces\\Security\\ITokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:05:16.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UOW.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\UOW\\UOW.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Repositories\\UOW\\UOW.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\UOW\\UOW.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Repositories\\UOW\\UOW.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:41:39.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUOW.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Interfaces\\IUOW\\IUOW.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\Interfaces\\IUOW\\IUOW.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Interfaces\\IUOW\\IUOW.cs",
+              "RelativeToolTip": "Domain Layer\\Interfaces\\IUOW\\IUOW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:38:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Interfaces\\IGeneric\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\Interfaces\\IGeneric\\IGenericRepository.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Interfaces\\IGeneric\\IGenericRepository.cs",
+              "RelativeToolTip": "Domain Layer\\Interfaces\\IGeneric\\IGenericRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:18:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\Common\\Result.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Common\\Result.cs",
+              "RelativeToolTip": "Domain Layer\\Common\\Result.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:13:38.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserCreationDTO.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\DTOs\\UserCreationDTO.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\DTOs\\UserCreationDTO.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\DTOs\\UserCreationDTO.cs",
+              "RelativeToolTip": "Domain Layer\\DTOs\\UserCreationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:32:30.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Application Layer\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "Application Layer\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:32:20.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application Layer\\Services\\UserService.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Services\\UserService.cs",
+              "RelativeToolTip": "Application Layer\\Services\\UserService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAewHwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:00:07.489Z",
               "EditorCaption": ""
             },
             {
@@ -87,9 +263,22 @@
               "RelativeDocumentMoniker": "User Managment API\\Program.cs",
               "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\User Managment API\\Program.cs",
               "RelativeToolTip": "User Managment API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T12:17:21.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Repositories\\Security\\PasswordHasher.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Repositories\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:25:58.903Z",
               "EditorCaption": ""
             },
             {
@@ -100,9 +289,48 @@
               "RelativeDocumentMoniker": "User Managment API\\appsettings.json",
               "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\User Managment API\\appsettings.json",
               "RelativeToolTip": "User Managment API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-20T12:15:25.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Interfaces\\Security\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application Layer\\Interfaces\\Security\\IPasswordHasher.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Interfaces\\Security\\IPasswordHasher.cs",
+              "RelativeToolTip": "Application Layer\\Interfaces\\Security\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:23:22.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Application Layer\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "Application Layer\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:55:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserConfigurations.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Configurations\\UserConfigurations.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Configurations\\UserConfigurations.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Configurations\\UserConfigurations.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Configurations\\UserConfigurations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:51:26.32Z",
               "EditorCaption": ""
             },
             {
@@ -115,20 +343,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\Repos\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Repositories\\Repos\\UserRepository.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\Repos\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Repositories\\Repos\\UserRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:18:54.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "Domain Layer\\Interfaces\\IUser.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "Domain Layer\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:21:44.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application Layer\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Application Layer\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:45:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure Layer\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure Layer\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:25:18.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application Layer\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Application Layer\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:54:09.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Application Layer\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Application Layer\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:48:39.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "InfrastructureServicesCollectionExtentions.cs",
               "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\DependencyInjection\\InfrastructureServicesCollectionExtentions.cs",
               "RelativeDocumentMoniker": "Infrastructure Layer\\DependencyInjection\\InfrastructureServicesCollectionExtentions.cs",
               "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\DependencyInjection\\InfrastructureServicesCollectionExtentions.cs",
               "RelativeToolTip": "Infrastructure Layer\\DependencyInjection\\InfrastructureServicesCollectionExtentions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T12:12:37.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 24,
               "Title": "UserManagmentDbContext.cs",
               "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Infrastructure Layer\\UserManagmentDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure Layer\\UserManagmentDbContext.cs",

@@ -8,9 +8,9 @@ using Domain_Layer.Models;
 using Infrastructure_Layer.Repositories.GenericRepository;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure_Layer.Repositories
+namespace Infrastructure_Layer.Repositories.Repos
 {
-    internal class UserRepository : GenericRepository<User>, IUserRepository
+    internal class UserRepository : GenericRepository<User>, IUser
     {
         public UserRepository(UserManagmentDbContext context) : base(context)
         {

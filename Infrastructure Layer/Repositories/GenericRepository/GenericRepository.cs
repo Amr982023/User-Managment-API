@@ -124,7 +124,7 @@ namespace Infrastructure_Layer.Repositories.GenericRepository
 
         public async Task<IEnumerable<T>> AddRangeAsync(IEnumerable<T> entities)
         {
-            await _context.Set<T>().AddRangeAsync(entities);
+            await _context.Set<T>().AddRangeAsync(entities);    
             return entities;
         }
 
@@ -162,5 +162,10 @@ namespace Infrastructure_Layer.Repositories.GenericRepository
             return await _context.Set<T>().CountAsync(criteria);
         }
 
+
+        public async Task<int> SaveChangesAsync()
+        {
+            return await _context.SaveChangesAsync();
+        }
     }
 }

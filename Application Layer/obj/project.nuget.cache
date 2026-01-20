@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OuVRIvt1tIM=",
+  "dgSpecHash": "4dxwIc9EW58=",
   "success": true,
   "projectFilePath": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Application Layer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

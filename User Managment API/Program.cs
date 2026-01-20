@@ -1,4 +1,8 @@
+using Application_Layer.Options;
 using Infrastructure_Layer.DependencyInjection;
+using Infrastructure_Layer.Repositories.JWT;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +12,13 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddInfrastructureServices(builder.Configuration);
+builder.Services.AddJwtServices(builder.Configuration, "Jwt");
+
+
+
+
+
+
 
 var app = builder.Build();
 

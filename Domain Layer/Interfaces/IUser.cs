@@ -8,7 +8,7 @@ using Domain_Layer.Models;
 
 namespace Domain_Layer.Interfaces
 {
-    public interface IUserRepository : IGenericRepository<User>
+    public interface IUser : IGenericRepository<User>
     {
         public string? GetUserNameById(int id);
         public string? GetRoleByUserId(int id);

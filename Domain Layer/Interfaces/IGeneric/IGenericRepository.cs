@@ -35,5 +35,6 @@ namespace Domain_Layer.Interfaces.IGeneric
         int Count(Expression<Func<T, bool>> criteria);
         Task<int> CountAsync();
         Task<int> CountAsync(Expression<Func<T, bool>> criteria);
+        public Task<int> SaveChangesAsync();
     }
 }

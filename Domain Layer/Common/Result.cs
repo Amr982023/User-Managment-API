@@ -10,7 +10,7 @@ namespace Domain_Layer.Common
     {
         public T _Value { get; }
         public bool _IsSuccess { get; }
-        public bool isfailure => !_IsSuccess;
+        public bool Isfailure => !_IsSuccess;
         public string? _ErrorMessage { get; }
 
         public Result(T Value , bool IsSuccess, string ErrorMessage) 
