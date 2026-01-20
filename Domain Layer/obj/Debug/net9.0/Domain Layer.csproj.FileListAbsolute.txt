@@ -1,0 +1,12 @@
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\bin\Debug\net9.0\Domain Layer.deps.json
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\bin\Debug\net9.0\Domain Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\bin\Debug\net9.0\Domain Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\Domain Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\Domain Layer.AssemblyInfoInputs.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\Domain Layer.AssemblyInfo.cs
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\Domain Layer.csproj.CoreCompileInputs.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\Domain Layer.sourcelink.json
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\Domain Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\refint\Domain Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\Domain Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Domain Layer\obj\Debug\net9.0\ref\Domain Layer.dll

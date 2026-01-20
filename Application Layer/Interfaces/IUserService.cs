@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Application_Layer.DTOs;
+using Domain_Layer.Common;
 
 namespace Application_Layer.Interfaces
 {
     public interface IUserService
     {
 
-        Task<int> RegisterAsync(RegisterUserDto dto);
+        Task<Result<UserDto>> RegisterAsync(RegisterUserDto dto);
 
         Task<string?> LoginAsync(LoginDto dto);
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain_Layer.Common
 {
-    public class Result <T> where T : class
+    public class Result <T>
     {
         public T _Value { get; }
         public bool _IsSuccess { get; }

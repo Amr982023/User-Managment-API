@@ -1008,7 +1008,8 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Domain Layer": "1.0.0",
-          "Mapster": "7.4.0"
+          "Mapster": "7.4.0",
+          "Microsoft.Extensions.DependencyInjection": "9.0.12"
         },
         "compile": {
           "bin/placeholder/Application Layer.dll": {}

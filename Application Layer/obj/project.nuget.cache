@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4dxwIc9EW58=",
+  "dgSpecHash": "kFBgYMLSOx0=",
   "success": true,
   "projectFilePath": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Application Layer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.12\\microsoft.extensions.dependencyinjection.9.0.12.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.12\\microsoft.extensions.dependencyinjection.abstractions.9.0.12.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Application_Layer.DTOs;
 using Application_Layer.Interfaces;
 using Application_Layer.Interfaces.Security;
+using Application_Layer.Validation;
 using Domain_Layer.Common;
 using Domain_Layer.Consts;
 using Domain_Layer.DTOs;
@@ -34,8 +35,31 @@ namespace Application_Layer.Services
         }
 
         // Registration
-        public async Task<int> RegisterAsync(RegisterUserDto dto)
+        public async Task<Result<UserDto>> RegisterAsync(RegisterUserDto dto)
         {
+            // Validate input
+            if (string.IsNullOrWhiteSpace(dto.Email))
+                return Result<UserDto>.Failure("Email is required");
+            
+            if (string.IsNullOrWhiteSpace(dto.Username))
+                return Result<UserDto>.Failure("Username is required");
+            
+            if (dto.UserRole == null)
+                return Result<UserDto>.Failure("User Role is required");
+
+            if (!clsValidation.ValidateEmail(dto.Email))
+              return Result<UserDto>.Failure("Invalid Email Format");
+
+            if (dto.Password != dto.ConfirmPassword)
+                return Result<UserDto>.Failure("Passwords do not match");
+
+            if (!clsValidation.ValidatePassword(dto.Password))
+                return Result<UserDto>.Failure("Invalid Password Format");
+
+            if (dto.DateOfBirth == null )
+                return Result<UserDto>.Failure("Date Of Birth is Required");
+
+
             // Hash password
             var passwordHash = _passwordHasher.Hash(dto.Password);
 
@@ -48,16 +72,29 @@ namespace Application_Layer.Services
                 DateOfBirth = dto.DateOfBirth
             }; 
 
-            var user = User.Create(userDto);
+            var result = User.Create(userDto);
            
-            if (user.Isfailure)
-                throw new Exception(user._ErrorMessage);
+            if (result.Isfailure)
+                return Result<UserDto>.Failure(result._ErrorMessage);
 
-            await _UnitOfWork.Users.AddAsync(user._Value);
+
+            User user = result._Value;
+
+            await _UnitOfWork.Users.AddAsync(user);
             await _UnitOfWork.CompleteAsync();
 
-            return user._Value.Id;
+            UserDto userResultDto = new UserDto
+            {
+                Id = user.Id,
+                Username = user.Username,
+                Email = user.Email,
+                Role = Convert.ToInt32(user.UserRole)
+            };
+
+            return Result<UserDto>.Success(userResultDto);
         }
+
+
 
         // Login + JWT
         public async Task<string?> LoginAsync(LoginDto dto)

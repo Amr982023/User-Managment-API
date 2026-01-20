@@ -1,0 +1,16 @@
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\bin\Debug\net9.0\Application Layer.deps.json
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\bin\Debug\net9.0\Application Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\bin\Debug\net9.0\Application Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\bin\Debug\net9.0\Domain Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\bin\Debug\net9.0\Domain Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Application Layer.csproj.AssemblyReference.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Application Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Application Layer.AssemblyInfoInputs.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Application Layer.AssemblyInfo.cs
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Application Layer.csproj.CoreCompileInputs.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Application Layer.sourcelink.json
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Applicat.A7418506.Up2Date
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Application Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\refint\Application Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\Application Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Application Layer\obj\Debug\net9.0\ref\Application Layer.dll

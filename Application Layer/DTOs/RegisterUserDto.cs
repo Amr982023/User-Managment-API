@@ -12,6 +12,7 @@ namespace Application_Layer.DTOs
         public required string Email { get; set; }
         public required int UserRole { get; set; }
         public required string Password { get; set; } 
+        public required string ConfirmPassword { get; set; } 
         public required DateTime DateOfBirth { get; set; }
     }
 }

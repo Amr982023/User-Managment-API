@@ -33,7 +33,7 @@ namespace Domain_Layer.Models
                 return Result<User>.Success(new User
                 {
                     Username = Dto.Username,
-                    PasswordHash = Dto.Password,
+                    PasswordHash = Dto.PasswordHash,
                     Email = Dto.Email,
                     CreatedAt = DateTime.Now,
                     DateOfBirth = Dto.DateOfBirth,

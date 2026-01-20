@@ -1,0 +1,20 @@
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\bin\Debug\net9.0\Infrastructure Layer.deps.json
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\bin\Debug\net9.0\Infrastructure Layer.runtimeconfig.json
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\bin\Debug\net9.0\Infrastructure Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\bin\Debug\net9.0\Infrastructure Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\bin\Debug\net9.0\Application Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\bin\Debug\net9.0\Domain Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\bin\Debug\net9.0\Application Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\bin\Debug\net9.0\Domain Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.csproj.AssemblyReference.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.AssemblyInfoInputs.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.AssemblyInfo.cs
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.csproj.CoreCompileInputs.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.sourcelink.json
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastr.E4F4A019.Up2Date
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\refint\Infrastructure Layer.dll
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.pdb
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\Infrastructure Layer.genruntimeconfig.cache
+D:\cyber security\fundamentals\Projects\User Managment API\Infrastructure Layer\obj\Debug\net9.0\ref\Infrastructure Layer.dll
