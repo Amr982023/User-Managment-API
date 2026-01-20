@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\application layer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D52726CD-0549-4CA7-A6D5-57681B7A26A9}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\domain layer\\consts\\enuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A343490B-A02F-45AB-ABE9-BBFA68120216}|Domain Layer\\Domain Layer.csproj|solutionrelative:domain layer\\consts\\enuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\user managment api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|solutionrelative:user managment api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|d:\\cyber security\\fundamentals\\projects\\user managment api\\user managment api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E42D7F33-7844-4384-8C1C-F506E7D8065B}|User Managment API\\User Managment API.csproj|solutionrelative:user managment api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,58 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "enUserRole.cs",
-              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Consts\\enUserRole.cs",
-              "RelativeDocumentMoniker": "Domain Layer\\Consts\\enUserRole.cs",
-              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Domain Layer\\Consts\\enUserRole.cs",
-              "RelativeToolTip": "Domain Layer\\Consts\\enUserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T22:18:04.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Application Layer\\Services\\UserService.cs",
-              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\Application Layer\\Services\\UserService.cs*",
-              "RelativeToolTip": "Application Layer\\Services\\UserService.cs*",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAcwJsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T22:02:11.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\User Managment API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "User Managment API\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\User Managment API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "User Managment API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwFsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:48:43.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\User Managment API\\Program.cs",
-              "RelativeDocumentMoniker": "User Managment API\\Program.cs",
-              "ToolTip": "D:\\cyber security\\fundamentals\\Projects\\User Managment API\\User Managment API\\Program.cs",
-              "RelativeToolTip": "User Managment API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T17:33:25.573Z",
-              "EditorCaption": ""
             }
           ]
         }
