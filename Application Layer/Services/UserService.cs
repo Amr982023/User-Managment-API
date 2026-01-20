@@ -150,7 +150,11 @@ namespace Application_Layer.Services
 
             user.Username = dto.Username;
             user.Email = dto.Email;
+            user.PasswordHash = _passwordHasher.Hash(dto.Password);
             user.UpdatedAt = DateTime.UtcNow;
+            user.DateOfBirth = dto.DateOfBirth;
+            user.UserRole = (enUserRole)dto.Role;
+
 
             _UnitOfWork.Users.Update(user);
             await _UnitOfWork.CompleteAsync();
